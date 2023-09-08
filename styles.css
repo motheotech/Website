@@ -1,0 +1,16 @@
+body{
+  background-color: black;
+}
+h1 {
+  text-align: middle;
+  color: blue;
+  font-style: italic;
+  size: 18;
+}
+h2{
+  color: yellow;
+}
+
+p{
+  color: white;
+}
